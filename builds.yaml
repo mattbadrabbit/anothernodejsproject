@@ -12,5 +12,5 @@ flavors:
   # the flavor built by default by the automated build system
   default:
     some_var: foo
-  chop-production:
-    some_var: foo
+  mattflavor:
+    build_hostname: "matt.badrabbit.com"
