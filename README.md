@@ -12,3 +12,4 @@ foo
 foo
 foo
 hi
+hi
